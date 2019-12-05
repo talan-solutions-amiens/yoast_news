@@ -1,5 +1,5 @@
 <?php
-$EM_CONF['yoast_news_talan'] = [
+$EM_CONF['yoast_news'] = [
     'title' => 'Yoast SEO for TYPO3 - EXT:news',
     'description' => 'Integrate Yoast SEO for TYPO3 in EXT:news',
     'category' => 'fe',
