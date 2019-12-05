@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "require": {
         "talan-solutions-amiens/yoast_seo_talan": "^5.0",
-        "georgringer/news": "^6.3||^7.0"
+        "georgringer/news": "^6.3"
     },
     "authors": [
         {
