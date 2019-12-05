@@ -1,10 +1,10 @@
 {
-    "name": "haassie/yoast_news",
+    "name": "talan-solutions-amiens/yoast_news_talan",
     "description": "Integrate Yoast SEO for TYPO3 in EXT:news",
     "type": "typo3-cms-extension",
     "license": "GPL-3.0-or-later",
     "require": {
-        "yoast-seo-for-typo3/yoast_seo": "^3.0",
+        "talan-solutions-amiens/yoast_seo_talan": "^5.0",
         "georgringer/news": "^6.3||^7.0"
     },
     "authors": [
